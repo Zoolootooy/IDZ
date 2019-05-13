@@ -1,0 +1,29 @@
+ul, li{
+    display: block;
+    padding: 0;
+    margin: 0;
+}
+
+.logo {
+    display: inline-block;
+    color: #ffffff;
+    font-family: 'Montserrat Bold';
+    font-size: 12px;
+
+    margin-right: 301px;
+    height: 32px;
+    
+    padding-top: 6px;
+    padding-bottom: 6px;
+
+    margin-right: 301px;
+}
+
+.logo__image {
+    margin-right: 24px;
+}
+
+.logo__phone-img {
+    margin-left: 24px;
+    transform: rotateY(180deg);
+}

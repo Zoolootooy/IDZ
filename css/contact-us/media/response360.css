@@ -1,0 +1,266 @@
+@media (max-width: 360px) { 
+    body {
+        width: 360px;
+    }
+
+    .map__img {
+        width: 100%;
+    }
+
+    .head {
+        margin-bottom: 180px;
+    }
+
+    .logo {
+        margin-right: 0px;
+    }
+
+    .menu {
+        font-size: 16px;
+    }
+
+    .menu-bar {
+        display: block;
+        text-align: center;
+    }
+
+    .menu__item {
+       margin-left: 0px;
+    }
+
+    .menu__button button {
+        margin-left: 0px;
+        width: 100%;
+        height: 100%;
+    }
+
+    .contact {
+        width: 100%;
+        height: 100%;
+        text-align: center;
+        margin-bottom: 0;
+        margin-top: 35px;
+    }
+
+    .section-heading {
+        margin-left: auto;
+        margin-right: auto;
+        margin-bottom: 35px;
+    }
+
+    .section-heading__header {
+        font-size: 24px;
+    }
+
+    .section-heading__text p {
+        font-size: 12px;
+    }
+
+    .contact__body {
+        width: 100%;
+    }
+
+    .form {
+        width: 94%;
+        height: 100%;
+        margin-right: 0;
+        margin-left: 3%;
+        margin-right: 3%;
+
+        margin-bottom: 6%;
+    }
+
+    .headquarter {
+        position: static;
+        width: 94%;
+        margin-left: 3%;
+        margin-right: 3%;
+    }
+    
+    .headquarter__header {
+        margin-left: auto;
+        margin-right: auto;
+    }
+
+    .headquarter__item_adress li span {
+        text-align: left;
+    }
+
+    .call-to-action__text {
+        left: 20px;
+        top: 30px;
+        width: 90%;
+    }
+
+    .call-to-action__header {
+        width: 100%;
+        height: 100%;
+        text-align: center;
+    }
+
+    .call-to-action__text-body {
+        width: 100%;
+        height: 100%;
+        margin-top: 0px;
+        text-align: center;
+
+    }
+
+    .call-to-action__button {
+        left: 37.5px;
+        top: 18px;
+    }
+
+    .footer {
+        width: 100%;
+        height: 100%;
+        margin-top: 25px;
+    }
+
+    .footer__logo {
+        width: 135px;
+    }
+
+    .footer__contacts {
+        margin-right: 0px;
+        margin-bottom: 20px;
+        text-align: center;
+    }
+
+    .footer__contacts_head {
+        font-size: 32px;
+    }
+
+    .footer__contacts_text {
+        font-size: 18px;
+    }
+
+    .footer__body {
+        display:block;
+        margin-left: 3%;
+        margin-right: 3%;
+    }
+
+
+
+    .footer__body_item{
+        margin-top: 0px;
+    }
+
+    .footer__company {
+        display: block;
+        width: 100%;
+        text-align: center;
+        border: 1px solid #979995;
+    }
+
+    .footer__company_head {
+        font-size: 24px;
+        margin-bottom: 0px;
+        background-color: #eef1ec;
+        border-bottom: 1px solid #979995;
+    }
+
+    .footer__company_text {
+        margin-left: 0px;
+        margin-bottom: 0px;
+        margin-top: 0px;
+        padding-top: 12px;
+        padding-bottom: 13px;
+        font-size: 24px;
+        border-bottom: 1px solid #979995;
+    }
+
+    .footer__company_text_last {
+        border-bottom: none;
+    }
+
+    .footer__others {
+        display: block;
+        width: 100%;
+        text-align: center;
+        border: 1px solid #979995;
+    }
+
+    .footer__others_head {
+        font-size: 24px;
+        margin-bottom: 0px;
+        background-color: #eef1ec;
+        border-bottom: 1px solid #979995;
+    }
+
+    .footer__others_text {
+        margin-left: 0px;
+        margin-bottom: 0px;
+        margin-top: 0px;
+        padding-top: 12px;
+        padding-bottom: 13px;
+        font-size: 24px;
+        border-bottom: 1px solid #979995;
+    }
+
+    .footer__others_last {
+        border-bottom: none;
+    }
+
+    .footer__newsletter {
+        display: block;
+        width: 100%;
+        text-align: center;
+        border: 1px solid #979995;
+    }
+
+    .footer__newsletter_head {
+        font-size: 24px;
+        margin-bottom: 0px;
+        background-color: #eef1ec;
+        border-bottom: 1px solid #979995;
+    }
+
+    .footer__newsletter_text {
+        margin-left: 0px;
+        margin-bottom: 0px;
+        margin-top: 0px;
+        padding-top: 12px;
+        padding-bottom: 13px;
+        font-size: 24px;
+    }
+    
+   .footer__newsletter_email-icon {
+       height: 13px;
+   }
+
+    .footer__enter-email {
+        width: 100%;
+        
+        height: 56px;
+        font-size: 14px;
+    }
+
+    .footer__enter-email::placeholder {
+        font-size: 24px;
+    }
+
+    .footer__enter-email-icon {
+        font-size: 24px;
+        top: -45px;
+        right: -135px;
+    }
+
+    .footer__shape {
+        width: 100%;
+    }
+
+    .footer__rights {
+        font-size: 16px;
+        margin-left: 0px;
+        position: relative;
+        left: 94px;
+        
+    }
+
+    .links {
+        top: 20px;
+        right: -45.5px;
+    }
+}

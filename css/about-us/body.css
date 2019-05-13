@@ -1,0 +1,12 @@
+body {
+    width: 1500px;
+    margin-left: auto;
+    margin-right: auto;
+    
+    overflow-x: hidden !important;
+}
+
+.wrap {
+    overflow-x: hidden !important;
+    padding-bottom: 40px;
+}

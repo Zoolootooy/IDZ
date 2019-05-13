@@ -1,0 +1,63 @@
+.headquarter {
+    width: 342px;
+    height: 273px;  
+    border: 2px dashed #c1d3d2;
+    background-color: #ffffff;
+
+    position: relative;
+    top: -406px;
+    left: 574px;
+}
+
+
+
+.headquarter__header {
+    font-family: 'Roboto Light';
+    font-size: 22px;
+    color: #0f5f5c;
+    margin-top: 38px;
+    margin-left: 41px;
+}
+
+.headquarter__item {
+    font-family: 'Roboto Regular';
+    font-size: 13px;
+    color: #83a7a5;
+}
+
+.headquarter__item_adress {
+    margin-top: 23px;
+    margin-left: 42px;
+}
+
+.headquarter__item_adress-text {
+    text-align: left;
+    width: 145px;
+    height: 58px;
+}
+
+.headquarter__item_phone {
+    margin-top: 29px;
+    margin-left: 42px;
+}
+
+.headquarter__item_email {
+    margin-top: 16px;
+    margin-left: 42px;
+}
+
+.headquarter__item {
+    display: flex;
+}
+
+.headquarter__icons_point {
+    margin-right: 11px;
+}
+
+.headquarter__icons_phone {
+    margin-right: 5px;
+}
+
+.headquarter__icons_message {
+    margin-right: 7px;
+}

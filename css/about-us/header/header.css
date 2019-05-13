@@ -1,0 +1,48 @@
+@import 'logo.css';
+@import 'map.css';
+@import 'menu.css';
+@import 'masthead.css';
+@import 'headline.css';
+
+.header{
+    
+    
+    height: 600px;
+    background: linear-gradient(to bottom, #878787, #ffffff);
+}
+
+.header__img {
+    background-image: url(../../../img/head.png);
+}
+
+.logo-menu {
+    height:  200px;
+    background-image: linear-gradient(to top, rgba(0, 0, 0, 0) 0%, rgba(0, 0, 0, 0.5) 100%);
+}
+
+.head{   
+    padding-top: 26px;
+    text-align: center;
+    margin-bottom: 34px;
+    height:  32px;
+    background-image: linear-gradient(to top, rgba(0, 0, 0, 0) 0%, rgba(0, 0, 0, 0.5) 100%);
+
+
+    
+
+}
+
+.header__phone {
+    display: inline-block;
+    text-align: center;
+    height: 20px;
+    border-left: 1px solid #ffffff;
+    padding-top: 3px;
+}
+
+.header__shape {
+    width: 1055px;
+    height: 1px;
+    background-color: #ffffff;
+    opacity: 0.2;
+}

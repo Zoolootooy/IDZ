@@ -1,0 +1,48 @@
+.call-to-action{
+    width: 100%;
+    height: 200px;
+    background-image: url(../../../img/footer.png);
+}
+
+.call-to-action__text {
+    padding: 0;
+
+    position: relative;
+    left: 226px;
+    top: 75px;
+}
+
+.call-to-action__header{
+    font-family: 'Roboto Light';
+    font-size: 28px;
+    color: #ffffff;
+
+    width: 455px;
+    height: 28px;
+}
+
+.call-to-action__text-body {
+    color: #ffffff;
+    font-family: 'Roboto Regular';
+    font-size: 15px;
+    line-height: 22px;
+
+
+}
+
+.call-to-action__button {
+    
+    background:   #49732f;
+    border: none;
+    color: #FFFFFF;
+    width: 285px;
+    height: 42px;
+    border-radius: 3px;
+
+    font-family: 'Montserrat Regular';
+    font-size: 13px;
+
+    position: relative;
+    left: 993px;
+}
+

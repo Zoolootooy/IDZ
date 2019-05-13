@@ -1,0 +1,23 @@
+@import 'logo.css';
+@import 'map.css';
+@import 'menu.css';
+
+.header{
+    padding-top: 26px;
+    text-align: center;
+}
+
+.head{   
+    margin-bottom: 34px;
+    height:  32px;
+    text-align: center;
+}
+
+.header__phone {
+    display: inline-block;
+    text-align: center;
+    height: 20px;
+    border-left: 1px solid #83a7a5;
+    padding-top: 3px;
+}
+

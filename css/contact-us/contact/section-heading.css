@@ -1,0 +1,36 @@
+.section-heading {
+    margin-bottom: 77px;
+}
+
+.section-heading__header {
+    width: 100%;
+    text-align: center;
+    color: #0f5f5c;
+    font-family: 'Roboto Light';
+    font-size: 32px;
+    font-weight: 300;
+    line-height: 20px;
+}
+
+.section-heading__shape {
+    text-align: center;
+    width: 65px;
+    height: 1px;
+    background-color: #6fb048;
+
+    border: none;
+}
+
+.section-heading__text {
+    text-align: center;
+}
+
+.section-heading__text p {
+    text-align: center;
+    height: 36px;
+    color: #83a7a5;
+    font-family: 'Roboto Regular';
+    font-size: 15px;
+    font-weight: 400;
+    line-height: 20px;
+}

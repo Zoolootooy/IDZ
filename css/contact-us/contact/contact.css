@@ -1,0 +1,16 @@
+@import 'section-heading.css';
+@import 'form.css';
+@import 'headquarter.css';
+
+.contact {
+
+    margin-top: 77px;
+    margin-bottom: 102px;
+    margin-left: auto;
+    margin-right: auto;
+
+    height: 585px;
+    width: 916px;
+
+    
+}

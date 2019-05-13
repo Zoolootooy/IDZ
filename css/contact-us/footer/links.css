@@ -1,0 +1,46 @@
+.links{
+    width: 235px;
+    height: 30px;
+
+    display: flex;
+    position: relative;
+    top : -25px;
+    right: -820px;
+}
+
+
+
+.links__image {
+    width: 30px;
+    height: 30px;
+    border-radius: 50%;
+    margin-left: 17px;
+    
+    text-align: center;
+    line-height:30px;
+}
+
+.links__image_twitter {
+    background-color: #55acee;
+}
+
+.links__image a {
+    color: #FFFFFF;
+}
+
+
+.links__image_facebook {
+    background-color: #3b5998;
+}
+
+.links__image_instagramm {
+    background-color: #3f729b;
+}
+
+.links__image_dribbble {
+    background-color: #ea4c89;
+}
+
+.links__image_github {
+    background-color: #333333;
+}

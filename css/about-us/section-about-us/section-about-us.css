@@ -1,0 +1,77 @@
+.section-about-us{
+    width: 1039px;
+    
+
+    margin-top: 78px;
+    margin-left: 238px;
+    margin-right: 233px;
+    margin-bottom: 106px;
+
+    text-align: center;
+}
+
+.section-about-us__heading {
+    width: 129px;
+    height: 47px;
+    margin-left: 455px;
+    margin-right: 455px;
+}
+
+.section-about-us__header {
+    font-family: 'Roboto Light';
+    font-size: 32px;
+    color: #0f5f5c;
+}
+
+.section-about-us__shape {
+    width: 65px;
+    height: 1px;
+    background-color: #6fb048;
+}
+
+.section-about-us__text {
+    width: 710px;
+    height: 82px;
+    text-align: center;
+    margin-top: 39px;
+    margin-left: auto;
+    margin-right: auto;
+
+    color: #83a7a5;
+    font-size: 15px;
+    font-family: 'Roboto Regular';
+}
+
+.section-about-us__items {
+    display: flex;
+    margin-top: 94px;
+}
+
+.section-about-us__item_one {
+    margin-right: 65px;
+}
+
+.section-about-us__item_two {
+    margin-right: 52px;
+}
+
+.section-about-us__item_img {
+    margin-left: 124px;
+    margin-right: 123px;
+    margin-bottom: 28px;
+}
+
+.section-about-us__item_head {
+    text-align: center;
+    color: #0f5f5c;
+    font-family: 'Roboto Bold';
+    font-size: 16px;
+    margin-bottom: 21px;
+}
+
+.section-about-us__item_text {
+    text-align: center;
+    font-family: 'Roboto Regular';
+    font-size: 14px;
+    color: #83a7a5;
+}

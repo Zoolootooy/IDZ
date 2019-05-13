@@ -1,0 +1,7 @@
+<<<<<<< HEAD
+[2019-05-11 22:40:21] layer "+62 202 555 0117": Expected Either a default asset specification or a layer asset specification but "+" found.
+[2019-05-11 22:40:21] layer "@: hi@wapik.com p: +62 202 555 0117 a: 610 Overlook Circle Suit": Expected end of input but "p" found.
+=======
+[2019-05-09 22:23:41] layer "+62 202 555 0117": Expected Either a default asset specification or a layer asset specification but "+" found.
+[2019-05-09 22:23:41] layer "@: hi@wapik.com p: +62 202 555 0117 a: 610 Overlook Circle Suit": Expected end of input but "p" found.
+>>>>>>> 2b5754871e842afd80e6f920778c12ac0d4584bd
